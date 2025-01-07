@@ -18,8 +18,8 @@ const char *password = "88889999";
 
 // 设置静态 IP 配置
 IPAddress local_ip(192, 168, 2, 180);  // 设置固定 IP 地址
-IPAddress subnet(255, 255, 255, 0);    // 子网掩码
 IPAddress gateway(192, 168, 2, 1);     // 路由器网关地址
+IPAddress subnet(255, 255, 255, 0);    // 子网掩码
 
 WebServer server(80);
 
