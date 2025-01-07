@@ -12,6 +12,7 @@
 
 const int led = 8;
 
+// wifi 名称和路由
 const char *ssid = "小亦站";
 const char *password = "88889999";
 
@@ -27,7 +28,7 @@ WebServer server(80);
 #define IN3 4
 #define IN4 3
 
-int sdaPin = 6, sclPin = 7; //自定义eps32的I2C引脚
+int sdaPin = 6, sclPin = 5; //自定义eps32的I2C引脚
 
 float kp = 12, ki = 0.2, kd = 0.5;  // pid 参数预设
 float angleOffset = 0;  // 角度补偿, 平衡站立时 mpu6050 实测角度, 参数值: -3 ~ 3
