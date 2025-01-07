@@ -22,7 +22,7 @@ const esp32Address = "http://192.168.x.180"  // x 替换成你的路由中设置
 
 ![Image 0](./images/LB_CAR_接线图.jpg)
 
-<img src="./images/主_800_1.png）" style="width: 300px;">
+<img src="./images/主_800_1.png" style="width: 300px;">
 
 ![Image 1](./images/主_800_1.png)
 ![Image 2](./images/主_800_2.png)
