@@ -1,4 +1,6 @@
 /*
+   依赖开发板:
+      esp32 by Espressif Systems
    依赖库:
     MPU6050_tockn
     ArduinoJson
