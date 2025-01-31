@@ -1,5 +1,8 @@
 # 两轮平衡车代码
 
+### 【bilibili | 视频教程】 TB_CAR视频
+https://www.bilibili.com/video/BV1Kyc3eiErK/?vd_source=30ce0b8edbf661a7044de99533872fce
+
 ### 【金山文档 | WPS云文档】 TB_CAR物料
 https://kdocs.cn/l/coxXg5EI3AaE
 
